@@ -1,0 +1,16 @@
+Visitar o website da aplicaçao: https://paginas.fe.up.pt/~up201504257/lpro
+1.  Caso não tenha o java JRE fazer download e instalar. Pode fazer o download no seguinte link https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+2.  Fazer download do programa (WM)
+3.  Descomprimir o .zip para onde desejar. 
+4.  Criar ligação vpn para a FEUP.
+5.  Abrir a pasta e executar o wm.jar   
+
+**Não necessita de mais instalação**
+
+--------
+
+Caso pretenda mudar de base de dados basta seguir estes passos:
+1.    Entrar com o login "admin", "admin"
+2.    Se pretender uma base de dados diferente da actual fazer pontos 3 e 4
+3.    Menu da Base de Dados
+4.    Mudar user, password e url da base de dados
